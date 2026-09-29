@@ -1,4 +1,4 @@
-# velozen-property-intel-showcase
+# Velozen Property Intelligence Showcase 
 
 **Address in, full property intelligence out.**
 
@@ -67,17 +67,9 @@ My co-founder built the authentication and multi-tenant architecture and the dat
 
 **Honest data labeling.** The provider's "comparables" are listing-based, not confirmed closed sales, so the UI says "comparables" and never "sold." Where the data can't support a claim, the product doesn't make it.
 
-## Screenshots
+## Demo
 
-<!-- Replace with real screenshots. Blur or avoid real owner names and mailing addresses. -->
-
-| Property dashboard | Investment analysis |
-|---|---|
-| ![Property dashboard](screenshots/dashboard.png) | ![Investment analysis](screenshots/investment.png) |
-
-| AI outreach | CRM pipeline |
-|---|---|
-| ![Outreach generator](screenshots/outreach.png) | ![Pipeline](screenshots/pipeline.png) |
+Screenshots aren't posted publicly because the platform displays real property owner data. A live walkthrough is available on request.
 
 ## Status
 
